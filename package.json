@@ -1,0 +1,15 @@
+{
+  "name": "simple-merkle-airdrop",
+  "version": "1.0.0",
+  "description": "Gas-efficient token airdrop using Merkle Trees",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "merkletreejs": "^0.3.11",
+    "keccak256": "^1.0.6",
+    "ethers": "^6.7.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.19.0"
+  },
+  "license": "MIT"
+}
